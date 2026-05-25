@@ -46,7 +46,7 @@
       "required": false,
       "value": ""
     },
-    "AlwaysOnline": {
+    "ALWAYS_ONLINE": {
       "description": "make it true to be always online",
       "required": false,
       "value": "false"
