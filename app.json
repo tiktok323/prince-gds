@@ -102,7 +102,7 @@
       "value": "Your Status has been seen by Prince bot"
     },
     "REJECTSCALLS": {
-      "description": "type in truemsg to get call reject with message or just make it true to only reject the call",
+      "description": "Set to 'true' to only reject calls, set to 'all' to reject calls and send a message, or set to 'false' to disable it.",
       "required": false,
       "value": "false"
     },
